@@ -1,5 +1,6 @@
 .vscode
 node_modules
+wp-config.php
 wp-content/plugins
 wp-content/themes/wp-ajax-smart-form/vendor
 wp-content/themes/wp-ajax-smart-form/credentials.json
