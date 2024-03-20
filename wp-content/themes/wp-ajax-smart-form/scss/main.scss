@@ -272,6 +272,7 @@ html {
 						}
 						#form_tel {
 							width: -webkit-fill-available;
+							width: -moz-available;
 						}
 						.form-bottom {
 							display: flex;
@@ -307,6 +308,7 @@ html {
 								padding-top: 20px;
 								padding-bottom: 20px;
 								border-radius: 8px;
+								width: -moz-available;
 							}
 						}
 						.privacy-block {

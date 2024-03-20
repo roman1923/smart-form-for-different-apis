@@ -4,9 +4,6 @@
  */
 function rgb_scripts()
 {
-    wp_enqueue_style('google-fonts-preconnect', 'https://fonts.googleapis.com', array(), null);
-    wp_enqueue_style('google-fonts-gstatic-preconnect', 'https://fonts.gstatic.com', array(), null);
-    
     // Enqueue the Google Fonts stylesheet
     wp_enqueue_style('google-fonts', 'https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&family=Inter:wght@100..900&display=swap', array(), null);
     wp_enqueue_style('intlTelInput', 'https://cdn.jsdelivr.net/npm/intl-tel-input@19.5.6/build/css/intlTelInput.css', array(), null);
