@@ -131,6 +131,8 @@ html {
 							@media(max-width: 767px) {
 								margin-top: 0px;
 								opacity: 0.7;
+								overflow: hidden;
+								width: 95%;
 							}
 						}
 						.form-banner--text {
